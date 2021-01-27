@@ -1,0 +1,7 @@
+Client=Yes
+ListenPort=3500
+DestinationIP=localhost
+DestinationPort=443
+ServerTunnelDestinationIP=localhost
+ServerTunnelDestinationPort=6789
+Protocol=TCP
